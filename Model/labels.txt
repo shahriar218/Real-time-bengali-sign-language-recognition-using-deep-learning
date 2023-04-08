@@ -1,0 +1,10 @@
+0 A
+1 I
+2 Ka
+3 Kha
+4 La
+5 Ma
+6 O
+7 OI
+8 Pa
+9 Ra
